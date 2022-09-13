@@ -159,7 +159,7 @@ class: inverse, center, middle
 
 ---
 
-# Performance at School
+# `r fa("fas fa-chart-line", fill = "#fff")` Performance at School
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/classroom.jpg")
@@ -173,7 +173,7 @@ Measure `r fa("fas fa-arrow-right", fill = "#782F40")` Collect `r fa("fas fa-arr
 
 ---
 
-# Performance at School
+# `r fa("fas fa-chart-line", fill = "#fff")` Performance at School
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/classroom.jpg")
@@ -191,7 +191,7 @@ include_graphics("img/classroom.jpg")
 
 ---
 
-# Performance at School
+# `r fa("fas fa-chart-line", fill = "#fff")` Performance at School
 
 ```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
 include_graphics("img/3-ye-2022.png")
